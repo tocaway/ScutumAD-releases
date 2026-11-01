@@ -1,13 +1,22 @@
 {
-  "version": "3.0",
-  "published": "2026-11-01T19:33:27.945Z",
-  "file": "versions/ScutumAD-3.0.zip",
-  "size": 4024719,
-  "sha256": "b191cf5b6525134be821b506907aeb9f444e597e6029618a8b53ca67de8c0f4e",
-  "signature": "mx7+T+G/ROZY+EN4RdSHF49EES/JEf5slwUKgpdz4aI+DC9QwumBEteotdm2Wu60bkrh0/A3m0sR8ic0doSbBg==",
+  "version": "3.0.1",
+  "published": "2026-11-01T20:22:55.677Z",
+  "file": "versions/ScutumAD-3.0.1.zip",
+  "size": 4032874,
+  "sha256": "20e97d060466c2c43b1287fc76b5cecb347a8082debadd091a7799addc46db2b",
+  "signature": "F+wrD69ltgU26eA4laIWWepFowYtAzHYbwELro/8l2SWEO4nks6OcaKFtX/bJK2+jLGGAnD7fKTk3t7PxWWfAQ==",
   "notes": [
+    "3.0.1: sin scriptlets de las listas en YouTube y validar listas descargadas (#3)",
+    "Claude: arreglar YAML del workflow",
+    "Claude: quitar salida completa temporal",
+    "Claude: salida completa temporal para diagnosticar",
+    "@claude en Issues: aplica hallazgos y abre PR (solo el dueño)",
+    "Reporte semanal 2026-11-01",
+    "Quitar reporte de prueba",
+    "Reporte semanal 2026-11-01",
+    "Revisión semanal: guía del agente y Action que abre el Issue",
+    "Acciones de GitHub a v5 (Node 24)",
     "Publicación automática de versiones firmadas",
-    "Pruebas automáticas en GitHub con Chrome real",
-    "ScutumAD 3.0: versión inicial en git"
+    "Pruebas automáticas en GitHub con Chrome real"
   ]
 }
