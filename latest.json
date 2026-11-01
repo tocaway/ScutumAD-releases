@@ -1,11 +1,11 @@
 {
-  "version": "3.0.2",
-  "published": "2026-11-01T20:42:25.457Z",
-  "file": "versions/ScutumAD-3.0.2.zip",
-  "size": 4037813,
-  "sha256": "bff14999be25792e479f5a12fda35a239bb13743100a46e34c9490367769c180",
-  "signature": "7afjGBCffXigqXtcapEK5Y2FQvTqwe1+cbmZx9LA/BXiyRPMGUkYSsKBJi8/ZQNFwhd5T7RTvnSJI8L80ykjCA==",
+  "version": "3.0.3",
+  "published": "2026-11-01T21:04:58.076Z",
+  "file": "versions/ScutumAD-3.0.3.zip",
+  "size": 4037880,
+  "sha256": "dd7cca0059384df1e2b20395401f136e501d513fb86857a9046ce8807227ddea",
+  "signature": "BjwW3eOVkXFLJpEPPH1slN740/5QenE2GqHeie23IVLbX0yjxi9Dz7GmGsyNgKCXfCfLxQs8x+jfH8dph4i8Bg==",
   "notes": [
-    "3.0.2: aviso de versión nueva, botón Actualizar y actualización automática opcional"
+    "3.0.3: tests del camino de listas actualizadas (hallazgo 3 de #2)"
   ]
 }
