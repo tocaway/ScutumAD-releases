@@ -1,0 +1,11 @@
+{
+  "version": "3.0.2",
+  "published": "2026-11-01T20:42:25.457Z",
+  "file": "versions/ScutumAD-3.0.2.zip",
+  "size": 4037813,
+  "sha256": "bff14999be25792e479f5a12fda35a239bb13743100a46e34c9490367769c180",
+  "signature": "7afjGBCffXigqXtcapEK5Y2FQvTqwe1+cbmZx9LA/BXiyRPMGUkYSsKBJi8/ZQNFwhd5T7RTvnSJI8L80ykjCA==",
+  "notes": [
+    "3.0.2: aviso de versión nueva, botón Actualizar y actualización automática opcional"
+  ]
+}
