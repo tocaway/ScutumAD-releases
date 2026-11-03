@@ -1,11 +1,11 @@
 {
-  "version": "3.0.4",
-  "published": "2026-11-03T20:17:40.195Z",
-  "file": "versions/ScutumAD-3.0.4.zip",
-  "size": 4039345,
-  "sha256": "7cfdadef77b39a3fe9016b17a432b11c52e7638aced7db19a810c1fd95b47762",
-  "signature": "f+L0A9IfPbFu8YAPcJ6HtN8qmnsavhfapObmngHXOW61dTOa5x1raV0c4UvnAcw2QEsdDKpLP5SzZYLuNBvhAQ==",
+  "version": "3.0.5",
+  "published": "2026-11-03T21:17:33.038Z",
+  "file": "versions/ScutumAD-3.0.5.zip",
+  "size": 4043431,
+  "sha256": "d2e285cfce4d1688b67885273a5f7ddcf73de8ff03c40fa9991c8ba2fb83bf37",
+  "signature": "W6KZX51FgK6OHeM1GhjLsKwoOe/2QwqR2fRYUG+8WKuJ6La1hI+rF+0ye2K6I/HmvtW2jDNtZpZUIGjFyB25Bw==",
   "notes": [
-    "3.0.4: YouTube sin anuncios y sin aviso anti-bloqueador"
+    "3.0.5: botón Configuración y YouTube sin aviso de Premium"
   ]
 }
