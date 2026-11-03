@@ -1,6 +1,6 @@
 # Instalar y actualizar ScutumAD
 
-**Versión actual:** ScutumAD 3.0.6
+**Versión actual:** ScutumAD 3.0.7
 
 ScutumAD bloquea anuncios, rastreadores y webs peligrosas en Google Chrome (y en Edge o Brave), en Mac y en Windows. El instalador deja ScutumAD en una carpeta de tu usuario y añade un pequeño actualizador: así recibes las versiones nuevas con un botón, sin volver a instalar nada.
 
