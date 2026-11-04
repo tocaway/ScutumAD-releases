@@ -1,0 +1,11 @@
+{
+  "version": "3.0.8",
+  "published": "2026-11-04T20:07:52.081Z",
+  "file": "versions/ScutumAD-3.0.8.zip",
+  "size": 4047188,
+  "sha256": "9e814193945d45789b907075b6e759c718388bc9187d5157166dbd1009077d9b",
+  "signature": "zMugdklvbdcKUR84n650B/Etwthgf+pQuK1GUkaVW62OZO8UmopS/nVIIPvHflLXAtbFGFtoBF3Fe6iLWmVLAQ==",
+  "notes": [
+    "3.0.8: la ventana de actualización se abre arriba a la derecha"
+  ]
+}

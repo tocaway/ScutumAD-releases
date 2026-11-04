@@ -1,11 +1,11 @@
 {
-  "version": "3.0.7",
-  "published": "2026-11-03T22:14:44.364Z",
-  "file": "versions/ScutumAD-3.0.7.zip",
-  "size": 4046856,
-  "sha256": "4dd62022ade55fc82b290b1123b535495304484f63dfc347dbf40d07e7b8f37f",
-  "signature": "mxakpyjjknU+NYgwm4j26AmpZ0Er1gmpUo+Ob99JpIeIOd5WTdV/JukQFVq3LswmfnM4x1cgDAeNoCBbnXHrDQ==",
+  "version": "3.0.8",
+  "published": "2026-11-04T20:07:52.081Z",
+  "file": "versions/ScutumAD-3.0.8.zip",
+  "size": 4047188,
+  "sha256": "9e814193945d45789b907075b6e759c718388bc9187d5157166dbd1009077d9b",
+  "signature": "zMugdklvbdcKUR84n650B/Etwthgf+pQuK1GUkaVW62OZO8UmopS/nVIIPvHflLXAtbFGFtoBF3Fe6iLWmVLAQ==",
   "notes": [
-    "3.0.7: menú del icono entero sin barra de desplazamiento y botón Aceptar"
+    "3.0.8: la ventana de actualización se abre arriba a la derecha"
   ]
 }
